@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"failed","Fri Apr 28 17:07:00 IST 2023","Fri Apr 28 17:07:15 IST 2023","14703","","My Login application","","","","should login with valid credentials",""
+"passed","Fri Apr 28 17:14:24 IST 2023","Fri Apr 28 17:14:31 IST 2023","6882","","My Login application","","","","should login with valid credentials",""
